@@ -106,11 +106,10 @@ const products = [
       createdAt: "2024-05-23T08:56:21.618Z",
       updatedAt: "2024-05-23T08:56:21.618Z",
       barcode: "2817839095220",
-      qrCode: "./img/image (9).png",
+      qrCode: "",
     },
     images: ["./img/upacofca calbasa.png"],
-    thumbnail:
-      "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png",
+    thumbnail: "./img/upacofca calbasa.png",
   },
   {
     id: 3,
